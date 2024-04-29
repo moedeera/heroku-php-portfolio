@@ -26,7 +26,7 @@
 </head>
 <body >
   <!-- You can output PHP including variables, etc -->
-  <h1>Hello </h1>
+  <h1 class="text-gray-600" >Hello </h1>
   <!-- You may only drop the semi-colon after a statement when the statement is followed immediately by a closing PHP tag ?>. -->
   <h1>Hello heroku from PHP </h1>
 </body>
